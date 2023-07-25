@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i=0;
     printf("Hello Jiamuyu\r\n");
+    printf("second change\r\n");
     return 0;
 }
